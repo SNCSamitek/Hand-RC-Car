@@ -1,8 +1,6 @@
 #include <Arduino.h>
 #include <WiFi.h>
 
-const char* ssid = "TELUS0086";
-const char* pw = "R27c2LvncKT3";
 
 WiFiServer server(80);
 
